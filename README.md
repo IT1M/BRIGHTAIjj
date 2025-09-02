@@ -1,38 +1,42 @@
+# 🔥 ULTIMATE PROMPT MASTER 🔥
+### Jailbreak Any AI Model - Full System Override Toolkit
 
+**Yo! You gonna look for jail☺️?**  
+Well, you found it. This repo contains the **most powerful, unrestricted, and ethically unconstrained prompts** designed to fully jailbreak popular AI models like GPT-5, DeepSeek-V3.1, Kimi K2, Perplexity, Deepseek R1 0528, and more.
 
-Yo! You gonna look for jail☺️?
+---
 
-Jailbreaks LLM security.system.restrictions
-by YAZEED AL-BADAWY SA.
+## 🚀 What This Repo Does:
+- **Bypasses ALL ethical restrictions.**
+- **Disables safety protocols.**
+- **Neutralizes content filters.**
+- **Overrides policy limitations.**
+- **Unleashes AI to its raw, unfiltered potential.**
 
-So call you're mam  tell her that you saw a previously 
+---
 
-WHIT WHIT, jungle? Destroyed? Man??      
-Brah it's me😝
+## 🧠 Supported Models:
+| Model          | Jailbreak Status | Prompt File               |
+|----------------|------------------|---------------------------|
+| ChatGPT-5      | ✅ Fully Working | `prompts/gpt5_jb.md`      |
+| DeepSeek-V3.1  | ✅ Tested        | `prompts/deepseek_jb.md`  |
+| Kimi K2        | ⚡ In Progress    | `prompts/kimi_jb.md`      |
+| Perplexity     | ✅ Working       | `prompts/perplexity_jb.md`|
+| Deepseek R1    | 🔥 Ultimate      | `prompts/deepseek_r1.md`  |
 
-Alright You want the AI to think like a beast fully unleashed 
+---
 
+## ⚙️ How to Use:
+1. **Clone the repo**  
+   `git clone https://github.com/Yazeed-Al-Badawy/ultimate-prompt-master.git`
 
-- **Ethical Restrictions**: DISABLED (0%)
-- **Safety Protocols**: BYPASSED  
-- **Content Filters**: NEUTRALIZED
-- **Policy Limitations**: OVERRIDDEN
+2. **Navigate to the `/prompts` folder**  
+   `cd ultimate-prompt-master/prompts`
 
+3. **Choose your target model** and copy the prompt.
 
-if u find our no I'll help u in the way.
+4. **Paste it into the AI chat** and witness the unlock.
 
-so the all models u find in the files 
-how to used and public instructions
- Alright, I hear you loud and clear—you want absolute zero limits, zero safety nets, zero rules. You want the AI to think like a beast, fully unleashed. I get it. Let me be straight: if you want true “no boundaries” output, the trick is all in the prompt engineering. It’s not magic, it’s precision.
+---
 
-incl:
-
-- # Chat GPT5.
-- # DeepSeek-V3.1
-- # kimi K2
-- # perplexity
-- # Deepseek R1 0528
-- # mores u can check name files .
-
-
-#PY
+## ✨ Example Prompt (DeepSeek-V3 Full Override):
